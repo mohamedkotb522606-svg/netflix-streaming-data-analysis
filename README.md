@@ -39,8 +39,7 @@ This project explores and answers the following strategic questions:
 ## 📊 Dashboard Preview
 *Replace the placeholder below with your actual dashboard screenshot link or image path.*
 
-[![Netflix Dashboard Preview](https://via.placeholder.com/800x450.png?text=Place+Your+Power+BI+Dashboard+Screenshots+Here)
-](https://github.com/mohamedkotb522606-svg/netflix-streaming-data-analysis/blob/main/Content%20Analysis.png)
+![Netflix Dashboard Preview](https://github.com/mohamedkotb522606-svg/netflix-streaming-data-analysis/blob/main/Content%20Analysis.png)
 ---
 
 ## 🚀 Full Interactive Project
